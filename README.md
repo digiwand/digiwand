@@ -7,9 +7,9 @@ My name is Ariella Vu. I've been working professionally as a full-stack engineer
 - 👯 I’m looking to collaborate on clean code making a positive impact
 - 📫 How to reach me: ariellavu@gmail.com
 - 😄 Pronouns: she/her/they/them
-- ⚡ Hobbies:
+- ⚡ Other Hobbies:
   - 🧘‍♀️ Yoga 
-  - 🌎 Traveling
+  - 🌎 Exploring
   - 📚 Personal development
 
 <br />
