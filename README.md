@@ -12,6 +12,14 @@ My name is Ariella Vu. I've been working professionally as a full-stack engineer
   - 🌎 Traveling
   - 📚 Personal development
 
+<br />
+<!-- [![Ariella's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariellanvu&count_private=true&show_icons=true&theme=dracula)
+](https://github.com/ariellanvu/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariellanvu&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt)
+](https://github.com/ariellanvu/github-readme-stats)
+
+
 <!--
 **ariellanvu/ariellanvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
