@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Ariella Vu. I've been working professionally as a full-stack engineer for 6+ years. My focus has been on the client-side. Over the last 3+ years, I've been living around the world. 
-
+My name is Ariella Vu. I've been working professionally as a full-stack engineer for 6+ years. My focus has been on the client-side. Over the last 3+ years, I've worked remotely. 
 - 🔭 I’m currently working on developing Next.js / ReactJS websites
 - 🌱 I recently left my job to work on personal projects and seek new remote opportunities Fall 2021
 - 👯 I’m looking to collaborate on clean code making a positive impact
@@ -10,6 +9,7 @@ My name is Ariella Vu. I've been working professionally as a full-stack engineer
 - ⚡ Other Hobbies:
   - 🧘‍♀️ Yoga 
   - 🌎 Exploring
+  - 🧗‍♀️ Indoor rock climbing 
   - 📚 Personal development
 
 <br />
