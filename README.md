@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 My name is Ariella Vu. I've been working professionally as a full-stack engineer for 6+ years. My focus has been on the client-side. Over the last 3+ years, I've worked remotely. 
-- 🔭 I’m currently working on developing Next.js / ReactJS websites
-- 🌱 I recently left my job to work on personal projects and seek new remote opportunities Fall 2021
-- 👯 I’m looking to collaborate on clean code making a positive impact
-- 📫 How to reach me: ariellavu@gmail.com
-- 😄 Pronouns: she/her/they/them
-- ⚡ Other Hobbies:
-  - 🧘‍♀️ Yoga 
-  - 🌎 Exploring
-  - 🧗‍♀️ Indoor rock climbing 
-  - 📚 Personal development
+- 🔭 &nbsp; I’m currently working on developing Next.js / ReactJS websites
+- 🌱 &nbsp; I recently left my job to work on personal projects and seek new remote opportunities Fall 2021
+- 👯 &nbsp; I’m looking to collaborate on clean code making a positive impact
+- 📫 &nbsp; How to reach me: ariellavu@gmail.com
+- 😄 &nbsp; Pronouns: she/her/they/them
+- ⚡ &nbsp;Other Hobbies:
+  - 🧘‍♀️ &nbsp; Yoga 
+  - 🌎 &nbsp; Exploring
+  - 🧗‍♀️ &nbsp; Indoor rock climbing 
+  - 📚 &nbsp; Personal development
 
 <br />
 <!-- [![Ariella's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariellanvu&count_private=true&show_icons=true&theme=dracula)
