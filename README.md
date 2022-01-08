@@ -4,8 +4,8 @@ My name is Ariella Vu. I've been working professionally as a full-stack engineer
 - 🔭 &nbsp; I’m currently working on developing Next.js / ReactJS websites
 - 🌱 &nbsp; I recently left my job to work on personal projects and seek new remote opportunities Fall 2021
 - 👯 &nbsp; I’m looking to collaborate on clean code to make a positive impact
-- 📫 &nbsp; How to reach me: ariellavu@gmail.com
 - 😄 &nbsp; Pronouns: she/her/they/them
+- 👩🏼‍💼 &nbsp; LinkedIn: [@ariellavu](https://www.linkedin.com/in/ariellavu)
 - ⚡ &nbsp;Other Hobbies:
   - 🧘‍♀️ &nbsp; Yoga 
   - 🌎 &nbsp; Exploring
