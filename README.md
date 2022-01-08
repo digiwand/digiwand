@@ -5,7 +5,6 @@ My name is Ariella Vu. I've been working professionally as a full-stack engineer
 - 🌱 &nbsp; I recently left my job to work on personal projects and seek new remote opportunities Fall 2021
 - 👯 &nbsp; I’m looking to collaborate on clean code to make a positive impact
 - 😄 &nbsp; Pronouns: she/her/they/them
-- 👩🏼‍💼 &nbsp; LinkedIn: [@ariellavu](https://www.linkedin.com/in/ariellavu)
 - ⚡ &nbsp;Other Hobbies:
   - 🧘‍♀️ &nbsp; Yoga 
   - 🌎 &nbsp; Exploring
@@ -13,6 +12,16 @@ My name is Ariella Vu. I've been working professionally as a full-stack engineer
   - 📚 &nbsp; Personal development
 
 <br />
+
+### Let's Connect! ☕️
+
+
+|     Social  |     Username |
+| :------------ | :------------ |
+| **LinkedIn**   | [@ariellavu](https://www.linkedin.com/in/ariellavu)  |
+| **StackOverflow**  | [@ariella](https://stackoverflow.com/users/4053142/ariella)  |
+| **Twitter**  | [@ariella_io](https://twitter.com/ariella_io)  |
+
 <!-- [![Ariella's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariellanvu&count_private=true&show_icons=true&theme=dracula)
 ](https://github.com/ariellanvu/github-readme-stats) -->
 
