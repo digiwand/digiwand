@@ -6,13 +6,6 @@ I'm Ariella Vu.<br /><br />
 ⭐️ &nbsp; she/her/they/them
 <br /><br />
 
-###  Hobbies 
-  🧘‍♀️ &nbsp; Yoga<br />
-  🌎 &nbsp; Exploring<br />
-  🧗‍♀️ &nbsp; Indoor rock climbing<br />
-  📚 &nbsp; Personal development
-<br /><br />
-
 ### Let's Connect! ☕️
 
 
