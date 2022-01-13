@@ -1,8 +1,8 @@
 ### Hello 👋
 
 I'm Ariella Vu.<br /><br />
-👯 &nbsp; Coding to build more inclusive and diverse homes in Web 3.0 and for fun<br />
-💻 &nbsp; Current stack: Next.js / ReactJS / TypeScript / Sass <br />
+💻 &nbsp; Coding to build more inclusive and diverse homes in Web 3.0 and for fun<br />
+🪴 &nbsp; Current stack: Next.js / ReactJS / TypeScript / Sass <br />
 ⭐️ &nbsp; she/her/they/them
 <br /><br />
 
