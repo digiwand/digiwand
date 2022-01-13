@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-My name is Ariella Vu. I've been working professionally as a full-stack engineer for 6+ years. My focus has been on the client-side. Over the last 3+ years, I've worked remotely. 
-- 🔭 &nbsp; I’m currently working on developing Next.js / ReactJS websites
-- 👯 &nbsp; I’m looking to collaborate on clean code to make a positive impact
-- 😄 &nbsp; Pronouns: she/her/they/them
-- ⚡ &nbsp;Other Hobbies:
-  - 🧘‍♀️ &nbsp; Yoga 
-  - 🌎 &nbsp; Exploring
-  - 🧗‍♀️ &nbsp; Indoor rock climbing 
-  - 📚 &nbsp; Personal development
+I'm Ariella Vu.<br /><br />
+👯 &nbsp; Coding to develop more inclusive and diverse homes in Web 3.0<br />
+💻 &nbsp; Current stack: Next.js / ReactJS / TypeScript / Sass <br />
+⭐️ &nbsp; she/her/they/them<br /><br />
+☕️ &nbsp;Hobbies:<br />
+  &emsp; 🧘‍♀️ &nbsp; Yoga<br />
+  &emsp; 🌎 &nbsp; Exploring<br />
+  &emsp; 🧗‍♀️ &nbsp; Indoor rock climbing<br />
+  &emsp; 📚 &nbsp; Personal development<br />
 
 <br />
 
