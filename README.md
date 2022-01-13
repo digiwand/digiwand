@@ -1,14 +1,17 @@
-### Hi there 👋
+### Hello 👋
 
 I'm Ariella Vu.<br /><br />
-👯 &nbsp; Coding to develop more inclusive and diverse homes in Web 3.0<br />
+👯 &nbsp; Coding to build more inclusive and diverse homes in Web 3.0 and for fun<br />
 💻 &nbsp; Current stack: Next.js / ReactJS / TypeScript / Sass <br />
-⭐️ &nbsp; she/her/they/them<br /><br />
-☕️ &nbsp;Hobbies:<br />
-  &emsp; 🧘‍♀️ &nbsp; Yoga<br />
-  &emsp; 🌎 &nbsp; Exploring<br />
-  &emsp; 🧗‍♀️ &nbsp; Indoor rock climbing<br />
-  &emsp; 📚 &nbsp; Personal development<br />
+⭐️ &nbsp; she/her/they/them
+
+<br />
+
+###  Hobbies 
+  🧘‍♀️ &nbsp; Yoga<br />
+  🌎 &nbsp; Exploring<br />
+  🧗‍♀️ &nbsp; Indoor rock climbing<br />
+  📚 &nbsp; Personal development<br />
 
 <br />
 
