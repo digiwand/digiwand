@@ -10,7 +10,7 @@
 | :------------ | :------------ |
 | **LinkedIn**   | [@ariellavu](https://www.linkedin.com/in/ariellavu)  |
 | **StackOverflow**  | [@ariella](https://stackoverflow.com/users/4053142/ariella)  |
-| **Twitter**  | [@ariella_io](https://twitter.com/ariella_io)  |
+| **Twitter**  | [@digiwand_eth](https://twitter.com/digiwand_eth)  |
 
 <!-- [![Ariella's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariellanvu&count_private=true&show_icons=true&theme=dracula)
 ](https://github.com/ariellanvu/github-readme-stats) -->
