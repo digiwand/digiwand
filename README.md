@@ -1,4 +1,8 @@
-💻 &nbsp; Coding to build more inclusive and diverse homes in Web 3.0 and for fun<br />
+Hello 👋  
+
+My name is Ariella Vu. I am a nomad and I have been coding professionally for over 7 years.
+
+💻 &nbsp; Coding to build more diverse and inclusive communities in Web 3.0 and for fun<br />
 🪴 &nbsp; Current stack: Next.js / ReactJS / TypeScript / Sass <br />
 ⭐️ &nbsp; she/her/they/them
 <br /><br />
