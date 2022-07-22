@@ -1,6 +1,6 @@
 Hello 👋  
 
-My name is Ariella Vu. I am a nomad and I have been coding professionally for over 7 years.
+My name is Ariella Vu. I'm a nomad and I've been coding professionally for over 7 years.
 
 💻 &nbsp; Coding to build more diverse and inclusive communities in Web 3.0 and for fun<br />
 🪴 &nbsp; Current stack: Next.js / ReactJS / TypeScript / Sass <br />
