@@ -14,7 +14,7 @@ My name is Ariella Vu. I'm a nomad and I've been coding professionally for over 
 | :------------ | :------------ |
 | **LinkedIn**   | [@ariellavu](https://www.linkedin.com/in/ariellavu)  |
 | **StackOverflow**  | [@ariella](https://stackoverflow.com/users/4053142/ariella)  |
-| **Twitter**  | [@digiwandd](https://twitter.com/digiwandd)  |
+| **Twitter**  | [@digiwandd](https://twitter.com/digiwand_)  |
 
 <!-- [![Ariella's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariellanvu&count_private=true&show_icons=true&theme=dracula)
 ](https://github.com/ariellanvu/github-readme-stats) -->
