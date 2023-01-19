@@ -2,7 +2,7 @@ Hello 👋
 
 I'm a nomad and I've been coding professionally for over 7 years.
 
-💻 &nbsp; Coding to build more diverse and inclusive communities in Web 3.0 and for fun<br />
+💻 &nbsp; Coding to build more diverse and inclusive communities in Web3 and for fun<br />
 🪴 &nbsp; Current stack: Next.js / ReactJS / TypeScript / Sass <br />
 ⭐️ &nbsp; she/her/they/them
 <br /><br />
@@ -24,7 +24,7 @@ I'm a nomad and I've been coding professionally for over 7 years.
  -->
 
 <!--
-**ariellanvu/ariellanvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**digiwand/digiwand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
