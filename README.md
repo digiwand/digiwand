@@ -1,6 +1,6 @@
 Hello 👋  
 
-I'm a nomad and I've been coding professionally for over 7 years.
+I nomad and code.
 
 💻 &nbsp; Coding to build more diverse and inclusive communities in Web3 and for fun<br />
 🪴 &nbsp; Current stack: Next.js / ReactJS / TypeScript / Sass <br />
