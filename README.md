@@ -1,10 +1,9 @@
-Hello 👋  
+Hello 👋
 
-I nomad and code.
-
-💻 &nbsp; Coding to build more diverse and inclusive communities in Web3 and for fun<br />
+💻 &nbsp; Coding to build more diverse and inclusive communities in Web3 and for leisure<br />
 🪴 &nbsp; Current stack: Next.js / ReactJS / TypeScript / Sass <br />
-⭐️ &nbsp; she/her/they/them
+⭐️ &nbsp; she/her/they/them <br />
+🗺️ &nbsp; Nomad 6+ years
 <br /><br />
 
 ### Let's Connect! ☕️
@@ -15,6 +14,7 @@ I nomad and code.
 | **LinkedIn**   | [@ariellavu](https://www.linkedin.com/in/ariellavu)  |
 | **StackOverflow**  | [@ariella](https://stackoverflow.com/users/4053142/ariella)  |
 | **Twitter**  | [@digiwand_](https://twitter.com/digiwand_)  |
+| **Warpcast**  | [@digiwand](https://twitter.com/digiwand)  |
 
 <!-- [![Ariella's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariellanvu&count_private=true&show_icons=true&theme=dracula)
 ](https://github.com/ariellanvu/github-readme-stats) -->
