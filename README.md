@@ -4,10 +4,7 @@ Hello 👋
 🪴 &nbsp; Current stack: Next.js / ReactJS / TypeScript / Sass <br />
 🗺️ &nbsp; Nomad 6+ years
 
-<br /><br />
-
-### Let's Connect! ☕️
-
+<br />
 
 |     Social  |     Username |
 | :------------ | :------------ |
