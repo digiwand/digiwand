@@ -2,7 +2,7 @@ Hello 👋
 
 💻 &nbsp; Coding to build more diverse and inclusive communities in Web3 and for leisure<br />
 🪴 &nbsp; Current stack: Next.js / ReactJS / TypeScript / Sass <br />
-🗺️ &nbsp; Nomad 6+ years
+🗺️ &nbsp; Nomad 8+ years
 
 <br />
 
