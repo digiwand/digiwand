@@ -1,17 +1,39 @@
-Hello 👋
+    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+    ┃                ░█▀█░█▀▄░▀█▀░█▀▀░█░░░█░░░█▀█░░░█░█░█░█                 ┃
+    ┃                ░█▀█░█▀▄░░█░░█▀▀░█░░░█░░░█▀█░░░▀▄▀░█░█                 ┃
+    ┃                ░▀░▀░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░░░░▀░░▀▀▀                 ┃
+    ┃                                                                       ┃
+    ┃                         software engineer                             ┃
+    ┃             building secure, performant web experiences               ┃
+    ┃                                                                       ┃
+    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-💻 &nbsp; Coding to build more diverse and inclusive communities in Web3 and for leisure<br />
-🪴 &nbsp; Current stack: Next.js / ReactJS / TypeScript / Sass <br />
-🗺️ &nbsp; Nomad 8+ years
+
+    stack       React • Ember.js • Node.js • TypeScript • SCSS
+    focus       security • performance • quality • scalability • user experience • accessibility 
+    interests   personal development • yoga • 3D printing • soldering
+    location    USA | remote 8+ years
+
+
+    ╭─ connect ─────────────────────────────────────────────────────────────╮
+    │                                                                       │
+    │   website           https://ariella.dev                               │
+    │   linkedin          https://www.linkedin.com/in/ariellavu             │
+    │   stackoverflow     https://stackoverflow.com/users/4053142/ariella   │
+    │                                                                       │
+    ╰───────────────────────────────────────────────────────────────────────╯
 
 <br />
 
-|     Social  |     Username |
-| :------------ | :------------ |
-| **LinkedIn**   | [@ariellavu](https://www.linkedin.com/in/ariellavu)  |
-| **StackOverflow**  | [@ariella](https://stackoverflow.com/users/4053142/ariella)  |
-| **Twitter**  | [@digiwand_](https://twitter.com/digiwand_)  |
-| **Warpcast**  | [@digiwand](https://twitter.com/digiwand)  |
+
+<!-- 
+
+    │   website           [ariella.dev](https://ariella.dev)                              │
+    │   linkedin          [in/ariellavu](https://www.linkedin.com/in/ariellavu)                             │
+    │   stackoverflow     [@ariella](https://stackoverflow.com/users/4053142/ariella)   
+
+-->
+
 
 <!-- [![Ariella's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariellanvu&count_private=true&show_icons=true&theme=dracula)
 ](https://github.com/ariellanvu/github-readme-stats) -->
