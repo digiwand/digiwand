@@ -15,7 +15,7 @@
     ╭─ connect ─────────────────────────────────────────────────────────────╮
     │                                                                       │
     │   website           https://ariella.dev                               │
-    │   linkedin          https://www.linkedin.com/in/ariellavu             │
+    │   linkedin          https://linkedin.com/in/ariellavu                 │
     │   stackoverflow     https://stackoverflow.com/users/4053142/ariella   │
     │                                                                       │
     ╰───────────────────────────────────────────────────────────────────────╯
