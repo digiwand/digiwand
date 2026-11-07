@@ -8,7 +8,7 @@
 
     stack       React • Ember.js • Node.js • TypeScript • SCSS
     focus       security • performance • quality • scalability • user experience • accessibility 
-    interests   personal development • yoga • 3D printing • soldering
+    interests   yoga • 3D printing • scuba diving (PADI certified)
     location    USA | remote 8+ years
 
 
